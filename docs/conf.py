@@ -1,7 +1,6 @@
 
-conf.py
 
-project = ''
+project = 'NordPass'
 author = 'Your Name'
 release = '1.0'
 
